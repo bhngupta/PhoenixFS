@@ -1,1 +1,5 @@
-add_executable(server main.cpp)
+add_executable(
+  server
+  main.cpp
+  network.cpp
+)
