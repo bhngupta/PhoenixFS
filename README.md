@@ -98,10 +98,10 @@ The system supports basic CLI commands for interacting with the distributed file
 
 ## Future Plans
 
-- [x] Persistence: Add support for persistent storage using databases like SQLite.
-- [x] Enhanced Replication: Introduce more sophisticated replication protocols for improved consistency and fault tolerance.
-- [x] Caching: Implement more sophisticated caching strategies for better performance.
-- [x] Web Interface: Develop a web-based interface for monitoring and managing Phoenix file system.
+- [ ] Persistence: Add support for persistent storage using databases like SQLite.
+- [ ] Enhanced Replication: Introduce more sophisticated replication protocols for improved consistency and fault tolerance.
+- [ ] Caching: Implement more sophisticated caching strategies for better performance.
+- [ ] Web Interface: Develop a web-based interface for monitoring and managing Phoenix file system.
 
 ## License
 
